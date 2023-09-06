@@ -33,7 +33,7 @@
     "@magicdawn/ascii-progress": "^1.0.8",
     "@neurosity/notion": "^5.6.0",
     "@sindresorhus/do-not-disturb": "^1.1.0",
-    "electron": "^15.3.0",
+    "electron": "^22.3.21",
     "electron-is-dev": "^2.0.0",
     "electron-store": "^8.0.1",
     "htm": "^3.0.4",
